@@ -27,4 +27,3 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em backend.
 ## Seguidores, estrelas e forks
 ![GitHub Followers](https://img.shields.io/github/followers/vlimap?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/vlimap?style=social)
-![GitHub forks](https://img.shields.io/github/forks/vlimap?style=social)
