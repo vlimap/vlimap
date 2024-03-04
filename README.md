@@ -1,16 +1,30 @@
-### Hi there 👋
+# Olá, eu sou [vlimap](https://github.com/vlimap) 👋
 
-<!--
-**vlimap/vlimap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Sou um desenvolvedor apaixonado por tecnologia, focado em backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Atualmente estou aprendendo Swift e TS.
+- 💬 Pergunte-me sobre educação 4.0.
+
+## Meu perfil no GitHub em números
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=vlimap&show_icons=true)
+
+## Projeto destacado
+
+- [Crud com Flask]([https:github.com/](https://github.com/vlimap/crud-com-flask.git))
+
+
+## Minhas linguagens de programação mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlimap&layout=compact)
+
+## Visão Geral do Perfil
+
+[![vlimap](https://komarev.com/ghpvc/?username=vlimap)](https://github.com/vlimap)
+
+## Seguidores, estrelas e forks
+![GitHub Followers](https://img.shields.io/github/followers/vlimap?style=social)
+![GitHub stars](https://img.shields.io/github/stars/vlimap?style=social)
+![GitHub forks](https://img.shields.io/github/forks/vlimap?style=social)
