@@ -1,10 +1,15 @@
-# Hello, I'm [vlimap](https://github.com/vlimap) 👋
+<!-- Background Image -->
+<div style="background-image: url('https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0'); background-size: cover; background-position: center; height: 300px; padding-top: 50px; text-align: center;">
+  <!-- Profile Image and Name -->
+  <img src="https://avatars.githubusercontent.com/vlimap" alt="Profile Image" style="width: 150px; height: 150px; border-radius: 50%;">
+  <h1 style="color: white;">Hello, I'm vlimap 👋</h1>
+</div>
 
 ## About Me
 
 I'm a technology enthusiast and backend-focused developer.
 
-- 🌱 Currently, I'm learning Swift and TS.
+- 🌱 Currently, I'm learning Swift and TypeScript.
 - 💬 Ask me about Education 4.0.
 
 ## My GitHub Profile in Numbers
