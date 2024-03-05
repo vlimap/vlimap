@@ -1,29 +1,29 @@
-# Olá, eu sou [vlimap](https://github.com/vlimap) 👋
+# Hello, I'm [vlimap](https://github.com/vlimap) 👋
 
-## Sobre mim
+## About Me
 
-Sou um desenvolvedor apaixonado por tecnologia, focado em backend.
+I'm a technology enthusiast and backend-focused developer.
 
-- 🌱 Atualmente estou aprendendo Swift e TS.
-- 💬 Pergunte-me sobre educação 4.0.
+- 🌱 Currently, I'm learning Swift and TS.
+- 💬 Ask me about Education 4.0.
 
-## Meu perfil no GitHub em números
+## My GitHub Profile in Numbers
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vlimap&show_icons=true)
 
-## Projeto destacado
+## Featured Project
 
-- [Crud com Flask]([https:github.com/](https://github.com/vlimap/crud-com-flask.git))
+- [Crud com Flask](https://github.com/vlimap/crud-com-flask)
 
-
-## Minhas linguagens de programação mais usadas
+## My Most Used Programming Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlimap&layout=compact)
 
-## Visão Geral do Perfil
+## Profile Overview
 
 [![vlimap](https://komarev.com/ghpvc/?username=vlimap)](https://github.com/vlimap)
 
-## Seguidores, estrelas e forks
+## Followers, Stars, and Forks
+
 ![GitHub Followers](https://img.shields.io/github/followers/vlimap?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/vlimap?style=social)
