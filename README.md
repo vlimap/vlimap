@@ -1,6 +1,3 @@
-<!-- Background Image -->
-![Background Image](https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0)
-
 ## Hello, I'm [vlimap](https://github.com/vlimap) 👋
 
 ### About Me
