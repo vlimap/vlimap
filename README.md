@@ -13,7 +13,7 @@ I'm a technology enthusiast and backend-focused developer.
 
 ### Featured Project
 
-- [Meu repositorio 😊](https://github.com/vlimap/)
+- [My repository 😊](https://github.com/vlimap/)
 
 ### My Most Used Programming Languages
 
