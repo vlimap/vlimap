@@ -1,4 +1,4 @@
-## Hello, I'm [vlimap](https://github.com/vlimap) 👋
+## Hello, I'm [Val Lima](https://github.com/vlimap) 👋
 
 ### About Me
 
