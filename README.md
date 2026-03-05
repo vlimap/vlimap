@@ -61,22 +61,14 @@ frase: "Code Artist — Esculpindo funcionalidades complexas para uma experiênc
 
 ## 🚀 Projetos em Destaque
 
-<div align="center">
-
-<a href="https://github.com/vlimap/pgmodeler">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vlimap&repo=pgmodeler&theme=tokyonight&border_color=6C63FF&border_radius=10" alt="pgmodeler"/>
-</a>
-<a href="https://github.com/vlimap/pg-schema-modeler">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vlimap&repo=pg-schema-modeler&theme=tokyonight&border_color=6C63FF&border_radius=10" alt="pg-schema-modeler"/>
-</a>
-<a href="https://github.com/vlimap/cursos-gratuitos-com-certificados">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vlimap&repo=cursos-gratuitos-com-certificados&theme=tokyonight&border_color=6C63FF&border_radius=10" alt="cursos-gratuitos"/>
-</a>
-<a href="https://github.com/vlimap/oficina-python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vlimap&repo=oficina-python&theme=tokyonight&border_color=6C63FF&border_radius=10" alt="oficina-python"/>
-</a>
-
-</div>
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :---: |
+| 🐘 **[PG Modeler](https://github.com/vlimap/pgmodeler)** | Editor ERD focado em PostgreSQL com auto layout, preview de SQL e exportação vetorial | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| 🗄️ **[PG Schema Modeler](https://github.com/vlimap/pg-schema-modeler)** | Modelador visual para esquemas PostgreSQL com React Flow e Blockly | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| 📚 **[Cursos Gratuitos](https://github.com/vlimap/cursos-gratuitos-com-certificados)** | Repositório de cursos gratuitos com certificados | ⭐ 4 &nbsp; 🍴 12 |
+| 🐍 **[Oficina Python](https://github.com/vlimap/oficina-python)** | Material de oficina/workshop de Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🔐 **[Google OAuth 2.0](https://github.com/vlimap/GoogleOAuth2.0)** | Autenticação com Google OAuth 2.0 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 🍽️ **[Gestão Restaurante](https://github.com/vlimap/2025.11.177-UC9-gestao_restaurante)** | Sistema fullstack de gestão de restaurante | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ---
 
@@ -84,8 +76,12 @@ frase: "Code Artist — Esculpindo funcionalidades complexas para uma experiênc
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vlimap&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlimap&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages"/>
+<a href="https://github.com/vlimap">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vlimap&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/vlimap">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vlimap&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages"/>
+</a>
 
 </div>
 
