@@ -175,6 +175,5 @@ disponível   : Freelance  ·  Consultorias  ·  Open Source
   <sub>Esculpindo funcionalidades complexas para uma experiência impecável.</sub>
 </div>
 
-<br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D47A1,100:1565C0&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D47A1,100:1565C0&section=footer"/>
