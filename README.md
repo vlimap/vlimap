@@ -165,10 +165,6 @@ disponível   : Freelance  ·  Consultorias  ·  Open Source
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlimap&layout=compact&theme=github_dark&langs_count=8&hide_border=true" />
 
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=vlimap&theme=darkhub&row=1&column=7&no-frame=true&margin-w=8" />
-
 </div>
 
 <br>
