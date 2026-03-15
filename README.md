@@ -35,7 +35,7 @@
 ```yaml
 formação     : Licenciado em Informática  |  Técnico em Redes
 atuação      : Desenvolvedor Fullstack  —  Node.js · React · Spring Boot
-certificações: Azure AI-900  ·  MIEExpert
+certificações: Azure AI-900 · MIEExpert · Scrum Fundamentals · CCNA 
 idiomas      : Português (nativo)  ·  Inglês (leitura técnica)
 interesses   : Cloud  ·  DevOps  ·  Educação  ·  IA Aplicada
 disponível   : Freelance  ·  Consultorias  ·  Open Source
